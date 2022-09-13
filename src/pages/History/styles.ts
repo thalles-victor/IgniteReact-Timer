@@ -60,6 +60,7 @@ export const HistoryList = styled.div`
     }
   }
 `;
+
 const SATUS_COLORS = {
   yellow: "yellow-500",
   green: "green-500",
